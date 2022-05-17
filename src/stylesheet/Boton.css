@@ -13,7 +13,6 @@
     margin: 4px;
     cursor: pointer;
     user-select: none;
-    background-color: #EAEAEA ;
 }
 .boton-contenedor:hover {
     background-color: #a33939ed;
