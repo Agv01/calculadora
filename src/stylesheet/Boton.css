@@ -7,12 +7,13 @@
     font-weight: bold;
     font-size: 38px;
     background-color: #a11818ed;
-    color: white;
+    color: #EAEAEA;
     border-radius: 25px;
-    border: 2px solid white;
+    border: 2px solid #EAEAEA;
     margin: 4px;
     cursor: pointer;
     user-select: none;
+    background-color: #EAEAEA ;
 }
 .boton-contenedor:hover {
     background-color: #a33939ed;
